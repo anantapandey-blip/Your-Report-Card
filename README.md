@@ -22,7 +22,7 @@ A simple Student Report Card program built using Python. It accepts marks for fi
 - Variables
 - User input
 - Arithmetic operators
-- Conditional statements (`if`, `elif`, `else`)
+- Conditional statements (`if`,  `else`)
 - Formatted output using f-strings
 
 ##  How to Run
@@ -30,7 +30,7 @@ A simple Student Report Card program built using Python. It accepts marks for fi
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/anantapandey-blip/Your-Report-Card.git
 ```
 
 2. Open the project folder.
@@ -61,11 +61,3 @@ Total Marks: 433
 Percentage: 86.60%
 ```
 
-##  Future Improvements
-
-- Validate marks (0–100 only)
-- Display grades for each individual subject
-- Calculate class rank
-- Save report cards to a text file
-- Support multiple students
-- Display pass/fail status for each subject
